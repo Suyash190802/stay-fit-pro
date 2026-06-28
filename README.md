@@ -3,6 +3,8 @@
 ## Project info
 
 **URL**: https://stay-fit-pro.netlify.app/
+
+
 Stay Fit Pro 🏋️‍♂️
 
 Stay Fit Pro is a modern fitness web application that helps users maintain a healthy lifestyle by discovering exercises, tracking fitness routines, and exploring nutritional information. The application integrates external APIs to provide real-time exercise and food data through an intuitive and responsive interface.
